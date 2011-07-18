@@ -34,7 +34,7 @@ end
 
 group :development do
   gem 'rspec-rails', '2.3.0'
-  gem 'annotate-models', :git => 'git://github.com/ctran/annotate_models.git'
+  # gem 'annotate-models', :git => 'git://github.com/ctran/annotate_models.git'
   gem 'ruby-debug19'
 end
 
